@@ -1,0 +1,11 @@
+streamlit → UI and interaction.
+
+mtranslate → Text translation.
+
+pandas → Reading language dataset.
+
+os → File handling.
+
+gtts → Text-to-speech conversion.
+
+base64 → Encoding audio for download.
